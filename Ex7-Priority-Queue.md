@@ -1,5 +1,5 @@
 # Ex 2(b) Priority Queue
-## DATE: 27/4/2025
+## DATE: 
 ## AIM:
 To formulate the C code to display the elements of the priority queue after insertion and deletion operation.
 
